@@ -19,15 +19,15 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author: 
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : photo.png
+  name             : Yiming Zhang
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : PhD candidate at Hong Kong University of Science and Technology
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : https://yzhangjx.github.io
   email            : "none@example.org" 
 
   # Academic websites
