@@ -12,5 +12,5 @@ Welcome to my personal website! I am a PhD Candidate in Finance at Hong Kong Uni
 
 Please feel free to contact me via email if you are interested in my research! Email: [yzhangjx@connect.ust.hk](yzhangjx@connect.ust.hk)
 
-Curriculum Vitae (updated 08/2024)
+You can find my CV here: [Curriculum Vitae](yzhangjx.github.io/assets/CV.PDF) (updated 08/2024)
 
